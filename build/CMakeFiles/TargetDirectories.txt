@@ -1,0 +1,3 @@
+C:/Users/pablo/Desktop/Trabalho ed2/Trabalho-inicial-de-ED2/build/CMakeFiles/Hello.dir
+C:/Users/pablo/Desktop/Trabalho ed2/Trabalho-inicial-de-ED2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/pablo/Desktop/Trabalho ed2/Trabalho-inicial-de-ED2/build/CMakeFiles/ZERO_CHECK.dir
